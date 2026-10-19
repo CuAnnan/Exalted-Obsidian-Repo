@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solars/Judicious Sunhawk.md",
+                "file": "Allies/Truly Free.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Judicious Sunhawk"
+              "title": "Truly Free"
             }
           }
         ]
@@ -188,25 +188,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "a936c7ac0a2f4bcd",
+  "active": "832dfdb68fb3fb6e",
   "lastOpenFiles": [
-    "README.md",
-    "Allies/Allies.md",
-    "Allies/Discordant Fragrance of Gloom.md",
-    "Allies/Heart of Wisdom.md",
-    "Solars/Astrid.md",
-    "Places/weft-map.png",
-    "Places/Compact.md",
-    "Places/Places.md",
+    "Allies/Truly Free.md",
+    "Solars/First Age Circle.md",
     "Places/Sundesmos.md",
     "Places/Weft.md",
-    "Solars/First Age Circle.md",
+    "Places/Places.md",
+    "Places/Compact.md",
+    "Allies/Heart of Wisdom.md",
+    "Allies/Discordant Fragrance of Gloom.md",
+    "Allies/Allies.md",
+    "Solars/Judicious Sunhawk.md",
+    "README.md",
+    "Solars/Astrid.md",
+    "Places/weft-map.png",
     "Untitled.canvas",
     "Enemies",
     "Allies",
     "Untitled.base",
     "Devouring Nightawk of the Abyss.md",
-    "Solars/Judicious Sunhawk.md",
     "Places",
     "Solars",
     "Members.md",
